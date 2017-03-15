@@ -1,0 +1,24 @@
+*{margin: 0px;padding: 0px;border: 0px}
+.tudo{margin-left:auto;margin-right:auto;background-image: url('imagens/background.png');
+width: 1000px;min-height: 1000px;
+padding:8px;margin-top: 8px;}
+header
+{float:right;height: 150px;width: 980px;padding: 8px;background-color: #9FB6CD;border-radius: 5px;box-shadow: 0px 0px 2px #000000}
+#logo{float:left;height: 150px;width:120px;background-image: url('imagens/perfil.png');} 
+#login-box{overflow:hidden;float: right; ;height:100px;width: 200px; background-color:#DCDCDC;border-radius: 5px;box-shadow: 0px 0px 5px #000000 }
+.input-div{margin: 10px;padding:1px;border-radius: 10px;background-color:#DCDCDC }
+.input-div input{width: 180px;height: 20px;border-radius: 2px;box-shadow:0px 0px 2px #000000;color: #B5B5B5;outline: none }
+.botoes{margin-left: 10px;margin-right: 10px;font-size: 15px}
+#botao{float: right;padding:2px; ;background-color: #9FB6CD;border-radius: 2px;box-shadow: 0px 0px 1px #000000 }
+#lembrar-senha{padding: 2px}
+#botao:hover{background-color: white;
+cursor: pointer;}
+
+
+
+
+section{float:left;height:500px; width: 950px;background-color:white;padding:8px;margin-left:5px; margin-top:20px;padding: 20px;text-align: justify;font-size: 18px;overflow: auto;border-radius: 8px;box-shadow:0px 0px 2px #000000 }
+.video{margin-left: 50px}
+footer{float: left;width: 1000px; height: 300px;margin-top: 10px;background-color: white;}
+#rodape{ margin-left: 25%}
+.rodape-botom{float:left;width: 100px ;margin:10px;text-align: center;padding: 30px; background-color:#6495ED;border-radius: 5px}
